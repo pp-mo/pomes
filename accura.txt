@@ -1,0 +1,92 @@
+On an Acura Integra
+BY PAUL VIOLI
+
+Please think of this as not merely a piece
+Of writing that anyone would fully
+Appreciate, but as plain and simple
+Words that attempt to arouse whatever
+Appetencies you, especially, depend
+Upon language to fulfill; that drench you
+In several levels of meaning at once,
+Rendering my presence superfluous.
+In other words, welcome this as a poem,
+Not merely a missive I've slowly composed
+And tucked under your windshield wiper
+So that these onlookers who saw me bash
+In your fender will think I'm jotting down
+The usual information and go away.
+
+Paul Violi, "On an Acura Integra" from Fracas. Copyright 1999 by Paul Violi.  Reprinted by permission of Hanging 
+Loose Press.
+
+Source: Fracas (Hanging Loose Press, 1999)
+
+
+================
+
+
+Please think of this as not merely a piece
+Of writing that anyone would fully
+Appreciate, but as plain and simple
+Words that attempt to arouse whatever
+Appetencies you, especially, depend
+Upon language to fulfill; that drench you
+In several levels of meaning at once,
+Rendering my presence superfluous.
+In other words, welcome this as a poem,
+Not merely a missive I've slowly composed
+And tucked under your windshield wiper
+So that these onlookers who saw me bash
+In your fender will think I'm jotting down
+The usual information and go away.
+
+Please think of this as
+  not merely a piece of writing
+  that anyone would fully appreciate.
+but as plain and simple words,
+  that attempt to arouse whatever appetencies you, especially, depend upon language to fulfill;
+  that drench you in several levels of meaning at once,
+  Rendering my presence superfluous.
+
+In other words, welcome this as a poem,
+  Not merely a missive I've slowly composed
+  And tucked under your windshield wiper
+So that these onlookers
+  who saw me bash in your fender
+  will think I'm jotting down the usual information
+  and go away.
+
+
+"On an Acura Integra"(
+  Please (
+    think-of <<this>> AS NOT [[merely]] (
+      A piece-of(writing) THAT ( <<anyone>> would-appreciate )
+    )
+    BUT AS (
+      (plain AND simple)(words) THAT (
+        attempt-to(arouse, whatever{
+            appetencies(<<you>> [[especially]]) depend-upon(language) TO (fulfil)
+          }
+      ) ,
+      THAT (
+        drench({{you}}) IN several (
+          levels OF meaning [[at-once]] ) )
+      ) ,
+      rendering <<my>>(presence) superfluous.
+    )
+  )
+  IN other-words (
+    welcome(<<this>>) AS (
+      A poem,
+      NOT [[merely]] A missive (
+        (<<I>>'ve [[slowly]] composed)
+        AND (tucked-under(<<you>>r (windshield-wiper)))
+      )
+    )
+    SO THAT (
+      <<these onlookers>> WHO saw(<<me>>, bash-in(<<you>>'re(fender)))
+          will-think(<<I>>'m jotting-down(<<the usual information))
+          AND go(away).
+    )
+  )
+)
