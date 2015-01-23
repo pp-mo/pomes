@@ -1,0 +1,24 @@
+
+
+    /* "Capsized" :  
+       Zak Kain, Surrogate: Christina Hall */
+
+    .ocean {
+        color: cornflowerblue;
+        pitch: high;
+        overflow: visible;
+    }
+
+    .boat {
+        color: firebrick;
+        transform: rotate(94deg);
+        float: none;
+    }
+
+    .rescue-team {
+        visibility: visible;
+    }
+
+    .crew {
+        widows: none;
+    }

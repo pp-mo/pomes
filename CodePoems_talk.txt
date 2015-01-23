@@ -1,0 +1,74 @@
+resources
+
+sanchez-pic  P of C
+
+SPL          C ifo P
+
+PifoC
+=====
+
+[rough]
+probset1     P ifo C (nf)
+#1.1  Capsized         PifoC  <<STRIPPED DOWN>>
+
+[pronounceable]
+Geeks' deception
+
+[formally correct but meaningless]
+creation     P ifo C (nf)
+goldilocks   
+#1.0  all.go.rhythm  P ifo C (nr)
+#1.0  ThatGirl       P ifo C
+#1.0  Expect_Delays  P ifo C
+  
+[runnable]
+biennale
+
+[generative]
+#1.1  MeAndYou
+#1.1  for every i, there is a stronger us  
+
+P ABOUT C
+A While is not But
+
+
+
+
+CURR-STRUC
+intro
+  simplicity
+what
+  acura-text
+  acura-shape
+functional finalist
+  MeAndYou
+functional another
+  pome
+finally... SPL
+  SPL
+
+
+POSS-STRUC
+intro
+  simplicity
+what
+  acura-text
+  acura-shape
+the form of
+  universe
+  problem-set
+edgier
+  capsized
+pronounceables
+  geek's deception
+generatives
+  (often not that great)
+  #1.1  for every i, there is a stronger us
+  
+functional finalist
+  MeAndYou
+functional another
+  pome
+finally... SPL
+  SPL
+
